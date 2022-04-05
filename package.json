@@ -1,0 +1,23 @@
+{
+  "name": "dopka-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aipyth/dopka-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "aipyth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aipyth/dopka-bot/issues"
+  },
+  "homepage": "https://github.com/aipyth/dopka-bot#readme"
+}
